@@ -2,7 +2,7 @@
 	"name" : "Sports",
 	"version" : 1,
 	"creationdate" : -723925031,
-	"modificationdate" : -723733808,
+	"modificationdate" : -723717116,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -39,6 +39,21 @@
 		}
 ,
 		"media" : 		{
+			"ChampagneShowers.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"FiveHours.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"Friendship.aiff" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
 			"grass.jpg" : 			{
 				"kind" : "imagefile",
 				"local" : 1
