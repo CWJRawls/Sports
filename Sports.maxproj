@@ -2,7 +2,7 @@
 	"name" : "Sports",
 	"version" : 1,
 	"creationdate" : -723925031,
-	"modificationdate" : -723717116,
+	"modificationdate" : -723706332,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -81,6 +81,54 @@
 ,
 			"team2.ball.jitmtl.thumbnail.png" : 			{
 				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"EtherealMoodInBlue.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Downloads",
+					"projectrelativepath" : "../../../../Downloads"
+				}
+
+			}
+,
+			"eruption.mov" : 			{
+				"kind" : "moviefile",
+				"local" : 1
+			}
+,
+			"drumming.m4a" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"Hawaiian_lava_flow.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+
+		}
+,
+		"data" : 		{
+			"music.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1
+			}
+,
+			"sidewalls.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1
+			}
+,
+			"endwall.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1
+			}
+,
+			"themes.txt" : 			{
+				"kind" : "textfile",
 				"local" : 1
 			}
 
