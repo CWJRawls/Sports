@@ -2,7 +2,7 @@
 	"name" : "Sports",
 	"version" : 1,
 	"creationdate" : -723925031,
-	"modificationdate" : -723213713,
+	"modificationdate" : -722712143,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -166,6 +166,16 @@
 			}
 ,
 			"o.prepend.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"o.route.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"o.display.mxo" : 			{
 				"kind" : "object",
 				"local" : 1
 			}
