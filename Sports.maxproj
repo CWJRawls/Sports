@@ -2,7 +2,7 @@
 	"name" : "Sports",
 	"version" : 1,
 	"creationdate" : -723925031,
-	"modificationdate" : -723706332,
+	"modificationdate" : -723213713,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -105,6 +105,21 @@
 			}
 ,
 			"Hawaiian_lava_flow.jpg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"collision.aiff" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"collision2.aiff" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"grass2.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
