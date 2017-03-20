@@ -135,6 +135,7 @@ function resetGame()
 	scare_team2 = 0;
 	start_enable = true;
 	practice_enable = true;
+	jack_throw = false;
 	current_mode = 0;
 	outlet(0,0); //turn the opening scene on
 	resetBalls();
@@ -243,6 +244,11 @@ function throwJack(vel)
 		outlet(1, delta);
 		jack_throw = true;
 		balls_rolling = true;
+		
+		var phase = new Array();
+		phase.push("phase");
+		phase.push(1);
+		outlet(2,phase);
 	}
 	
 	post("Jack already thrown\n");
