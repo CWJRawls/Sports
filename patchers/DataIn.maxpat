@@ -317,7 +317,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 33.0, 30.0, 99.0, 22.0 ],
 					"style" : "",
-					"text" : "udpreceive 9420"
+					"text" : "udpreceive 9999"
 				}
 
 			}
@@ -583,31 +583,7 @@
 				}
 
 			}
- ],
-		"dependency_cache" : [ 			{
-				"name" : "DataParse.maxpat",
-				"bootpath" : "~/Documents/Max 7/Projects/Sports/patchers",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "o.pack.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.collect.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.expr.codebox.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.prepend.mxo",
-				"type" : "iLaX"
-			}
- ],
-		"autosave" : 0
+ ]
 	}
 
 }

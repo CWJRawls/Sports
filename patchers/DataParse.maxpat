@@ -72,7 +72,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "FullPacket", "FullPacket" ],
 					"patching_rect" : [ 610.0, 406.0, 350.0, 114.0 ],
-					"text" : "/normx = (/pos[[0]] + 1800) / 3600,\n/normy = (/pos[[1]]) / 200,\n/normz = (/pos[[2]] + 1800) / 3600,\n/normPos = [/normx,/normy,/normz],\ndelete(/normx),\ndelete(/normy),\ndelete(/normz)",
+					"text" : "/normx = (/pos[[0]] + 1800) / 3600,\n/normy = (/pos[[1]]) / 2400,\n/normz = (/pos[[2]] + 1800) / 3600,\n/normPos = [/normx,/normy,/normz],\ndelete(/normx),\ndelete(/normy),\ndelete(/normz)",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
@@ -734,21 +734,7 @@
 				}
 
 			}
- ],
-		"dependency_cache" : [ 			{
-				"name" : "o.pack.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.collect.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "o.expr.codebox.mxo",
-				"type" : "iLaX"
-			}
- ],
-		"autosave" : 0
+ ]
 	}
 
 }
