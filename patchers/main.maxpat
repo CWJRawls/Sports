@@ -171,13 +171,11 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-168",
-					"linecount" : 10,
 					"maxclass" : "o.display",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2081.0, 120.0, 150.0, 156.0 ],
-					"text" : "/pos : [-214.146, 1070.85, 2829.2],\n/normPos : [0.440515, 0.446188, 1.28589],\n/vel : [0., 0., 0.],\n/dist : 0.,\n/spd : 0.,\n/spdM : 0.",
+					"patching_rect" : [ 2081.0, 120.0, 150.0, 34.0 ],
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -18038,7 +18036,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2385.0, 364.0, 743.0, 321.0 ],
+					"patching_rect" : [ 2385.0, 364.0, 749.0, 359.0 ],
 					"proportion" : 0.39,
 					"style" : ""
 				}

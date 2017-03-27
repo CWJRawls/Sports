@@ -2,7 +2,7 @@
 	"name" : "Sports",
 	"version" : 1,
 	"creationdate" : -723925031,
-	"modificationdate" : -721506151,
+	"modificationdate" : -721503739,
 	"viewrect" : [ 64.0, 121.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -27,8 +27,7 @@
 ,
 			"main.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 ,
 			"TextureFloor.maxpat" : 			{
@@ -38,7 +37,8 @@
 ,
 			"Overview.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel" : 1
 			}
 
 		}
